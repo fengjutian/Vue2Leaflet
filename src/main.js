@@ -4,6 +4,10 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import 'leaflet/dist/leaflet.css'
+import 'leaflet/dist/leaflet.js'
+import './leaflet-tilelayer-wmts-src.js'
+
+import L from 'leaflet'
 
 /* leaflet icon */
 delete L.Icon.Default.prototype._getIconUrl
