@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "leaflet": "^1.7.1",
+    "leaflet-velocity": "^1.7.0",
     "leaflet.chinatmsproviders": "^3.0.4",
+    "proj4": "^2.6.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue2-leaflet": "^2.6.0"
